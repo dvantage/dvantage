@@ -16,7 +16,7 @@ I was also involved in the implementation of solutions for e-commerce, like inte
          src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'
          alt='dvantage' height='30' width='40' />
   </a>
-  <a href='https://instagram.com/d_vantage' target='blank'>
+  <a href='https://instagram.com/d_vantage/' target='blank'>
     <img align='center'
          src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'
          alt='dvantage' height='30' width='40' />
