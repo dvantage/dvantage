@@ -19,10 +19,20 @@ I was also involved in the implementation of solutions for e-commerce, like inte
          src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'
          alt='dvantage' height='30' width='40' />
   </a>
+  <a href='https://github.com/dvantage/dvantage' target='blank'>
+    <img align='center'
+         src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg'
+         alt='dvantage' height='30' width='40' />
+  </a>
+  <a href='https://gitlab.com/d_vantage' target='blank'>
+    <img align='center'
+         src='https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg'
+         alt='d_vantage' height='50' width='50' />
+  </a>
   <a href='https://instagram.com/d_vantage/' target='blank'>
     <img align='center'
          src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'
-         alt='dvantage' height='30' width='40' />
+         alt='d_vantage' height='30' width='40' />
   </a>
   <a href='https://fb.com/dvantage' target='blank'>
     <img align='center'
@@ -32,7 +42,7 @@ I was also involved in the implementation of solutions for e-commerce, like inte
   <a href='https://twitter.com/d_vantage' target='blank'>
     <img align='center'
          src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg'
-         alt='dvantage' height='30' width='40' />
+         alt='d_vantage' height='30' width='40' />
   </a>
   <a href='https://stackoverflow.com/users/12919311' target='blank'>
     <img align='center'
