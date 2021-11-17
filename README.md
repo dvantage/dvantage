@@ -1,5 +1,8 @@
 <h1 align='center'>Hi 👋, I'm Vladimir Dorogov</h1>
 
+![2020-04-15 06 42 00 1](https://user-images.githubusercontent.com/5517858/142152593-ac75b329-daac-49bc-b6e7-2a2ede209d45.jpg)
+
+
 I am enthusiastic software engineer with over 12 years of experience in frontend and backend development.
 I can design projects from scratch or carry out a global update of the entire codebase.
 I do not like being an old man and I am constantly studying and implementing new technologies in projects in order to increase the quality of development, productivity and other parameters.
