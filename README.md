@@ -7,9 +7,9 @@ I am enthusiastic software engineer with over 12 years of experience in frontend
 I can design projects from scratch or carry out a global update of the entire codebase.
 I do not like being an old man and I am constantly studying and implementing new technologies in projects in order to increase the quality of development, productivity and other parameters.
 
-Stack of technologies that I often use: Typescript, NodeJS, Postgres, MondoDB, Redis, RabbitMQ, SSE (Server-sent events), Nginx, OpenLiteSpeed, PM2.
+Stack of technologies that I often use: Typescript, NodeJS, NestJS, Postgres, MondoDB, Redis, RabbitMQ, SSE (Server-sent events), gRPC, NGINX, PM2.
 
-At my current job I am a project architect and DevOps engineer. I design codebase (based on NestJS) with microservices (RabbitMQ as transport) and databases (Postgres, MongoDB, Redis), implement CI/CD via GitHub and GitLab, manage Nginx and OpenLiteSpeed (for serving static files over HTTP/3).
+At my current job I am a project architect and DevOps engineer. I design codebase (based on NestJS) with microservices (RabbitMQ as transport) and databases (Postgres, MongoDB, Redis), implement CI/CD via GitHub and GitLab, manage Nginx and LiteSpeed (for serving static files over HTTP/3).
 I was also involved in the implementation of solutions for e-commerce, like integration with services such as PayPal, Stripe and Payoneer.
 
 <h3 align='left'>Connect with me:</h3>
