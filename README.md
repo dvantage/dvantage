@@ -3,14 +3,15 @@
 ![2020-04-15 06 42 00 1](https://user-images.githubusercontent.com/5517858/142152593-ac75b329-daac-49bc-b6e7-2a2ede209d45.jpg)
 
 
-I am enthusiastic software engineer with over 12 years of experience in frontend and backend development.
+I am enthusiastic software architect, system administrator and DevOps with over 12 years of experience in frontend and backend development. Total experience in programming for almost 17 years.
+
 I can design projects from scratch or carry out a global update of the entire codebase.
 I do not like being an old man and I am constantly studying and implementing new technologies in projects in order to increase the quality of development, productivity and other parameters.
 
-Stack of technologies that I often use: Typescript, NodeJS, NestJS, Postgres, MondoDB, Redis, RabbitMQ, SSE (Server-sent events), gRPC, NGINX, PM2.
+Stack of technologies that I often use: Typescript, NodeJS, Postgres, MondoDB, Redis, RabbitMQ, NATS, gRPC, SSE (Server-sent events), Nginx, PM2.
 
-At my current job I am a project architect and DevOps engineer. I design codebase (based on NestJS) with microservices (RabbitMQ as transport) and databases (Postgres, MongoDB, Redis), implement CI/CD via GitHub and GitLab, manage Nginx and LiteSpeed (for serving static files over HTTP/3).
-I was also involved in the implementation of solutions for e-commerce, like integration with services such as PayPal, Stripe and Payoneer.
+At my current job I am a software architect, system administrator and DevOps. I design codebase (based on NestJS) with microservices (RabbitMQ, NATS and gRPC as transport) and databases (Postgres, MongoDB, Redis), implement CI/CD via GitHub and GitLab, manage Nginx and LiteSpeed.
+I was also involved in the implementation of solutions for e-commerce, like integration with services such as PayPal, Stripe, Payoneer and TripleA (crypto).
 
 <h3 align='left'>Connect with me:</h3>
 <p align='left'>
