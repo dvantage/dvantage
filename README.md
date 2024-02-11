@@ -189,7 +189,7 @@ I was also involved in the implementation of solutions for e-commerce, like inte
          width='40' height='40' />
   </a>
 </p>
+<h3 align='left'>GitHub stats:</h3>
 
-<p>
-  <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=dvantage&' alt='dvantage' />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats-theta-lime-94.vercel.app/api?username=dvantage&hide=discussions_started,discussions_answered,prs,prs_merged,prs_merged_percentage&include_all_commits=true&bg_color=0d1117&text_color=ffffff&title_color=41b883&hide_border=true&hide_title=true)](https://github.com/dvantage)
+
