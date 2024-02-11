@@ -79,7 +79,7 @@ I was also involved in the implementation of solutions for e-commerce, like inte
          alt='express' width='40' height='40' />
   </a>
   <a href='https://nestjs.com/' target='_blank' rel='noreferrer'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg' alt='nestjs'
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg' alt='nestjs'
          width='40'
          height='40' />
   </a>
